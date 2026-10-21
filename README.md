@@ -56,6 +56,6 @@ A suíte cobre precisão decimal, saldo, ordenação sem efeito colateral, filtr
 
 Projeto local para uma instância por arquivo, sem controle de acesso simultâneo entre processos. Não há banco de dados, edição ou exclusão de lançamentos. Executar a interface exige ambiente gráfico. Os testes principais funcionam sem interface gráfica.
 
-## Origem
+## Autor
 
-Revisão do projeto acadêmico `trabalho luan/controleFinanceiro`, mantendo os conceitos e as telas de cadastro/consulta e corrigindo regras e persistência. Os testes antigos encontrados no ZIP tinham expectativas diferentes; a suíte desta versão segue os contratos documentados acima. Preservar os créditos dos participantes originais ao publicar um trabalho em grupo.
+Daniel — [Danielloes](https://github.com/Danielloes).
